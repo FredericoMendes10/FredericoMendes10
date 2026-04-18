@@ -8,11 +8,11 @@
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=FredericoMendes10&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&v=3)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=FredericoMendes10&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&v=3)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FredericoMendes10&layout=compact&theme=tokyonight&hide_border=true&v=3)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FredericoMendes10&layout=compact&theme=github_dark&hide_border=true&v=3)
 
-![Profile Views](https://komarev.com/ghpvc/?username=FredericoMendes10&color=orange&style=flat-square&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=FredericoMendes10&color=white&style=flat-square&label=PROFILE+VIEWS)
 
 </div>
 
