@@ -34,6 +34,6 @@
 
 ### 📌 Academic Projects
 
-🔹 **[Projeto 1](https://github.com/FredericoMendes10/NOME_DO_REPO)** —  descrição.
+🔹 **[Nuruomino Solver](https://github.com/FredericoMendes10/AI)** —  Solver for the Nuruomino puzzle using AI search algorithms (DFS, A*, BFS, greedy). Built for the Artificial Intelligence course 2024/2025.
 
 🔹 **[Projeto 2](https://github.com/FredericoMendes10/NOME_DO_REPO)** — descrição.
