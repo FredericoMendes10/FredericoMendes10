@@ -12,8 +12,7 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FredericoMendes10&layout=compact&theme=github_dark&hide_border=true&v=3)
 
-![Profile Views](https://komarev.com/ghpvc/?username=FredericoMendes10&color=white&style=flat-square&label=PROFILE+VIEWS)
-
+![Profile Views](https://komarev.com/ghpvc/?username=FredericoMendes10&color=orange&style=flat-square&label=PROFILE+VIEWS)
 </div>
 
 ---
