@@ -8,9 +8,9 @@
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=FredericoMendes10&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&v=2)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=FredericoMendes10&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&v=3)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FredericoMendes10&layout=compact&theme=tokyonight&hide_border=true&v=2)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FredericoMendes10&layout=compact&theme=tokyonight&hide_border=true&v=3)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=FredericoMendes10&color=orange&style=flat-square&label=PROFILE+VIEWS)
 
@@ -36,4 +36,7 @@
 
 🔹 **[Nuruomino Solver](https://github.com/FredericoMendes10/AI)** —  Solver for the Nuruomino puzzle using AI search algorithms (DFS, A*, BFS, greedy). Built for the Artificial Intelligence course 2024/2025.
 
+🔹 **[Key-Value Store](https://github.com/FredericoMendes10/SO)** — A key-value store (KVS) server with real-time pub/sub notifications, written in C as an Operating Systems course project 2024/2025.
+
 🔹 **[Event Reservation System](https://github.com/FredericoMendes10/RC)** — Client-server app for managing event reservations over raw POSIX sockets (UDP/TCP), built for the Computer Networks course 2025/2026.
+
